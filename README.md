@@ -1,0 +1,1 @@
+A simple web application that fetches and displays real-time weather information for any city using the OpenWeatherMap API. Enter a city name, and get details like temperature, weather description, humidity, and wind speed in a user-friendly interface.
